@@ -33,7 +33,7 @@ int main() {
     cout << "Average : " << (maximum * minimum)/2 ;
 
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 2:
@@ -68,5 +68,5 @@ int main() {
 	}
 	
 }
-// By Amirhosein Pourmand
+
 //=======================================================
