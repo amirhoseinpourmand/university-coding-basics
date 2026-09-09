@@ -21,7 +21,7 @@ int main(){
 	cout<< "The result is : " <<result;
 	
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 2:
@@ -45,7 +45,7 @@ int main(){
 	cout << "Remainder : " << m << endl;
 	cout << "Quotient : "<< i;
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 3:
@@ -68,7 +68,7 @@ int main(){
 	cout<< "The result is : " << s << endl;
 	
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 4:
@@ -96,7 +96,7 @@ main() {
 	
 	return 0;
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 5:
@@ -128,5 +128,5 @@ int main() {
 }
 	cout << "The result is : " << c;
 }
-// By Amirhosein Pourmand
+
 //=======================================================
