@@ -28,7 +28,7 @@ for(int i=0;i<10;i++){
     cout << A[i] << " ";
 }
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 2:
@@ -55,7 +55,7 @@ int main() {
 
     return 0;
 }
-// By Amirhosein Pourmand
+
 //=======================================================
 
 //Practice 3:
@@ -85,5 +85,5 @@ int main() {
 
     return 0;
 }
-// By Amirhosein Pourmand
+
 //=======================================================
