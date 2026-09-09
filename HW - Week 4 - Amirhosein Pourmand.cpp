@@ -30,7 +30,7 @@ main() {
 
 	cout << result;
 }
-// By Amirhosein Pourmand
+
 //==================================================================
 
 //Practice 2:
@@ -53,5 +53,5 @@ main() {
 	
 	cout << "The result is : "<< result;
 }
-// By Amirhosein Pourmand
+
 //==================================================================
